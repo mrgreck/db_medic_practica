@@ -1,0 +1,30 @@
+C:\Users\nikit\source\repos\базза данных\базза данных\bin\Release\базза данных.exe.config
+C:\Users\nikit\source\repos\базза данных\базза данных\bin\Release\базза данных.exe
+C:\Users\nikit\source\repos\базза данных\базза данных\bin\Release\базза данных.pdb
+C:\Users\nikit\source\repos\базза данных\базза данных\obj\Release\базза данных.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\базза данных\базза данных\obj\Release\базза_данных.Diagnis.resources
+C:\Users\nikit\source\repos\базза данных\базза данных\obj\Release\базза_данных.Doctors.resources
+C:\Users\nikit\source\repos\базза данных\базза данных\obj\Release\базза_данных.Main.resources
+C:\Users\nikit\source\repos\базза данных\базза данных\obj\Release\базза_данных.People.resources
+C:\Users\nikit\source\repos\базза данных\базза данных\obj\Release\базза_данных.Properties.Resources.resources
+C:\Users\nikit\source\repos\базза данных\базза данных\obj\Release\базза_данных.Sick.resources
+C:\Users\nikit\source\repos\базза данных\базза данных\obj\Release\базза данных.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\базза данных\базза данных\obj\Release\базза данных.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\базза данных\базза данных\obj\Release\базза данных.exe
+C:\Users\nikit\source\repos\базза данных\базза данных\obj\Release\базза данных.pdb
+C:\Users\nikit\source\repos\базза данных\базза данных\obj\Release\базза_данных.Reports.resources
+C:\Users\nikit\YandexDisk\source\repos\базза данных\базза данных\bin\Release\базза данных.exe.config
+C:\Users\nikit\YandexDisk\source\repos\базза данных\базза данных\bin\Release\базза данных.exe
+C:\Users\nikit\YandexDisk\source\repos\базза данных\базза данных\obj\Release\базза данных.csproj.AssemblyReference.cache
+C:\Users\nikit\YandexDisk\source\repos\базза данных\базза данных\obj\Release\базза_данных.Diagnis.resources
+C:\Users\nikit\YandexDisk\source\repos\базза данных\базза данных\obj\Release\базза_данных.Doctors.resources
+C:\Users\nikit\YandexDisk\source\repos\базза данных\базза данных\obj\Release\базза_данных.Main.resources
+C:\Users\nikit\YandexDisk\source\repos\базза данных\базза данных\obj\Release\базза_данных.People.resources
+C:\Users\nikit\YandexDisk\source\repos\базза данных\базза данных\obj\Release\базза_данных.Properties.Resources.resources
+C:\Users\nikit\YandexDisk\source\repos\базза данных\базза данных\obj\Release\базза_данных.Reports.resources
+C:\Users\nikit\YandexDisk\source\repos\базза данных\базза данных\obj\Release\базза_данных.Sick.resources
+C:\Users\nikit\YandexDisk\source\repos\базза данных\базза данных\obj\Release\базза данных.csproj.GenerateResource.cache
+C:\Users\nikit\YandexDisk\source\repos\базза данных\базза данных\obj\Release\базза данных.csproj.CoreCompileInputs.cache
+C:\Users\nikit\YandexDisk\source\repos\базза данных\базза данных\obj\Release\базза данных.exe
+C:\Users\nikit\YandexDisk\source\repos\базза данных\базза данных\obj\Release\базза данных.pdb
+C:\Users\nikit\YandexDisk\source\repos\базза данных\базза данных\bin\Release\базза данных.pdb
